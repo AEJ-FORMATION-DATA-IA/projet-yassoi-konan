@@ -1,0 +1,172 @@
+body{  
+    margin: 0%;
+    padding: 3%;
+    background-color:#111827;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*-------------------------------------------- HEADER --------------------------------------------*/
+                      /*------------------- NAV BAR--------------------------------*/
+                        /* decor link */
+.igs-l-T-none{
+    list-style-type: none;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+}
+                          /*diplay navbar*/
+.igs-dplay-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.igs-Icne-d-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+   
+                            /*margin  link*/
+.igs-m-12px{
+    margin: 10px;
+}
+                        /*color link */
+.igs-col-ic-white{
+    color: #fff;
+}
+/*------------------------------------------------- END Header -----------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------
+                                                    MAIN
+----------------------------------------------------------------------------------------------------------- */
+.igs-t-fnt-size-70px{
+    font-size: 70px;
+}
+.igs-t-fnt-size-50px{
+    font-size: 50px;
+}
+.igs-t-color-white{
+    color: #fff;
+}
+.igs-t-deco-under{
+    text-decoration: underline;
+    color: #fff;
+}
+.igs-t-color{
+    color: #616875;
+}
+.igs-bgcolor{
+    background-color:  #1f2937;
+}
+.igs-display-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.igs-padding-10px {
+    padding: 10px;
+}
+.igs-mg-top-10px{
+    margin-top: 10px;
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------------------------
+/*--------------------------------------------------------------  section clients -----------------------------------------------------------------------------------------*/
+    /*----------------------------------------------------------- icone clients ----------------------------------------------*/
+.igs-ma-top-3em{
+    margin-top: 3em;
+}
+.igs-m-right-30px{
+    margin-right: 30px;
+}
+.igs-width-30pou{
+    width: 30%;
+}
+.igs-p-top-30px{
+    padding-top: 30px;
+}
+.igs-dip-flex{
+    display: flex;
+}
+.igs-wdth-140px{
+    width: 140px;
+}
+.igs-height-150px{
+    height: 150px;
+}
+.igs-al_It-baseline{
+    align-items: baseline;
+}
+.igs-just-cont-spacebetw {
+    justify-content: space-between;
+}
+/*-----------------------------------------------------------------------------------------------------------------------------------------------------
+/*--------------------- END ICONE CLIENT ----------------------------*/
+
+.igs-work-wdth-100px{
+    width: 290px;
+}
+.igs-work-heigth-100px{
+    height: 140px;
+}
+/*-------------------------------------------------------------------------------------------------------------------------------
+/* ------------------------------------------------------------ setps WORK ----------------------------------------------------*/
+.igs-wrk-m-right-20px{
+    margin-right: 20px;
+}
+.igs-txt-align-right{
+    text-align: right;
+}
+.igs-padding-20px{
+    padding: 15px;
+}
+.igs-m-bottom-50px{
+    margin-bottom: 50px;
+}
+.igs-WK-bg-color{
+    background-color:#1f2937;
+}
+
+.igs-display-grid{
+    display: grid;
+    column-gap: 30px;
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+} 
+/*---------------------------------------------------------------------------------------------------------------------------------------------------------
+/*----------------------------------------------------------- CONTACTS -----------------------------------------------------------------------------------*/
+
+.igs-cntcts-fnt-size{
+    font-size: 25px;
+}
+.igs-width{
+    width: 60%;
+}
+.igs-wdth2-225px{
+    width: 225px;
+}
+.igs-btton-wdth-235px{
+    width: 235px;
+}
+.igs-padding-3px{
+    padding: 3px;
+}
+.igs-mgin-top-40px 
+{
+    margin-top: 70px;
+}
+.igs-jstcontent-center{
+    justify-content: center;
+}
+.igs-bgcolor-btton{
+    background-color: #111827;;
+}
+.igs-pad-bttom-10px{
+    padding-bottom: 10px;
+}
+.igs-backgrd{
+    background-color: #515661;
+}
+.igs-padding-bttom-40px{
+    padding-bottom: 40px;
+}
+::placeholder{
+    color: #fff;
+}
+.igs-mag-left-10px{
+    margin-left: 15px;
+} 
